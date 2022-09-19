@@ -7,7 +7,7 @@
             <a href="/posts/{{ $post->slug }}"><h2>{{ $post->title }}</a></h2>
             <p>{{ $post->singkat }}</p>
 
-            <a href="/categories">Back to Categories</a>
+            <a href="/categories">Back o Categories</a>
 
         </article>
     @endforeach
